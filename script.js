@@ -8,5 +8,5 @@ displayText.onkeyup= () =>{
 		{
 			count++
 		}
-	dispayCount.innerText = count
+	displayCount.innerText = count
 }
